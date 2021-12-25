@@ -1,22 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-
-"""
-Oriëntatie op AI
-Final assignment 1: getallen
-(c) 2019 Hogeschool Utrecht,
-Bart van Eijkelenburg en
-Tijmen Muller (tijmen.muller@hu.nl)
-Opdracht:
-Werk onderstaande functies uit.
-Voeg commentaar toe om je code toe te lichten.
-Je kunt je functies testen met het gegeven raamwerk door het bestand
-uit te voeren (of met behulp van `pytest`, als je weet hoe dat werkt).
-Lever je werk in op Canvas als alle tests slagen.
-Let op! Het is niet toegestaan om bestaande modules te importeren en te
-        gebruiken, zoals `math` en `statistics`.
-"""
-
 # TODO: Vul hier je naam, klas en studentnummer in.
 naam = "Tjez"
 klas = "V1D"
